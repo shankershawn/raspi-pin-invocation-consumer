@@ -1,6 +1,6 @@
 @Ready
 Feature: Poom
   Scenario: Poom eats donuts
-    Given : Donuts are available in fridge
-    When : Poom finds donuts in fridge
-    Then : Nom-nom-nom
+    Given donuts are available in fridge
+    When poom finds donuts in fridge
+    Then nom-nom-nom
